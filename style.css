@@ -1,4 +1,25 @@
-body
+*
 {
-background-color: blue;
+margin: 0;
+}
+
+header
+{
+    background-image: url('images/h_t_b.jpg'); 
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+header .header-title
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
