@@ -48,3 +48,90 @@ header .header-title p
     font-weight: 500;
     font-family: Rambla;
 }
+/* *******About Band****** */
+.about-band
+{
+ margin-top: 5%;
+}
+.about-band h1
+{
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #f24a0c;
+}
+.about-band .row
+{ 
+    background-color: chartreuse;padding: 5PX;
+    display: flex;
+    align-items:center ;
+}
+.about-band .col
+{
+    background-color: rgb(10, 55, 237);
+    width: 28%;
+    display: inline-block;
+    padding: 5px;
+    margin: 0 auto;
+}
+.about-band .col img
+{
+    width:100%;
+}
+/* ********Footer******** */
+footer
+{
+    color: rgb(253, 253, 253);
+    padding: 30px;
+    background-color: rgb(97, 97, 97);
+}
+footer .cols
+{
+    vertical-align: top;
+  list-style-type: none;
+  display: inline-block;
+  width: 30%;
+}
+footer .cols li
+{
+    margin: 10px;
+}
+footer .cols li a
+{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+footer .cols li a:hover
+{
+    cursor: pointer;
+    color: rgb(204, 159, 10);
+}
+
+footer h3
+{
+   color: rgb(204, 159, 10);
+}
+footer input[type=text]
+{
+    border: none;
+    font-size: 17px;
+    padding: 5px;
+    border-radius: 5px;
+}
+footer button
+{
+    padding: 5px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+}
+
+footer button:hover
+{
+    cursor: pointer;
+    color:rgb(204, 159, 10);
+}
+footer hr
+{
+    color: rgb(151, 151, 151);
+}
