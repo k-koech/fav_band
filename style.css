@@ -59,11 +59,19 @@ header .header-title p
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color: #f24a0c;
 }
+.about-band hr
+{
+  width: 50px;
+  height: 5px;
+  background-color: #f24a0c;
+  border: none;
+}
 .about-band .row
 { 
     background-color: chartreuse;padding: 5PX;
     display: flex;
     align-items:center ;
+    margin-top: 2%;
 }
 .about-band .col
 {
