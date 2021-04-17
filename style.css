@@ -87,16 +87,25 @@ header .header-title p
     align-items:center ;
     margin: 2% 0 2% 0;
 }
+.about-band .row
+{
+    text-align: center;
+    font-size: 17px;
+    width: 70%;
+    margin: auto;
+}
 .about-band .col
 {
     background-color: rgb(225, 222, 220);
     width: 28%;
+    height: 350px;
     display: inline-block;
     margin: 0 auto;
 }
 .about-band .col img
 {
-    width:100%;
+    max-height: 100%;
+    max-width:100%;
 }
 .about-band .col h3
 {
@@ -144,7 +153,7 @@ header .header-title p
 
 .videos a
 {
-  text-decoration: none;
+  color: #f24a0c;
 }
 .videos a:hover
 {
@@ -157,7 +166,7 @@ header .header-title p
 }
 .videos .col a p
 {
-    color: rgba(38, 37, 37, 0);
+    text-decoration: red;
     text-align: center;
     margin:10px;
     font-size: 25px;
