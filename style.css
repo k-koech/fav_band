@@ -172,12 +172,7 @@ header .header-title p
 {
     cursor: pointer;
 }
-.videos .col .image
-{
-    
-    height: 240px;
-    background-color: #4f4f4f;
-}
+
 .videos .col img
 {
     vertical-align:middle;
