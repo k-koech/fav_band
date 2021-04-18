@@ -10,7 +10,11 @@ header
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    /* image-rendering: -webkit-optimize-contrast; */
+    /* image-rendering: pixelated; */
+    background-position:50% 50%;
+    width: 100%;
+    background-size:cover;
     position: relative;
     color: white;
 }
@@ -102,6 +106,18 @@ header .header-title p
     width: 70%;
     margin: auto;
 }
+.about-band .desc
+{
+    font-family: Arial;
+    text-align: center;
+    font-size: 17px;
+    width: 70%;
+    margin: auto;
+    background-color: #e9e9e9;
+    padding: 10px;
+    border-radius: 10px;
+}
+
 .about-band .col
 {
     background-color: rgb(225, 222, 220);
