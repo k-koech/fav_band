@@ -2,7 +2,7 @@
 #### My favorite band project descibes everything about the H_ART THE BAND, 17/04/2021
 #### By **Kelvin Kipchumba Koech**
 ## Description
-live site https://k-koech.github.io/fav_band/
+live site - https://k-koech.github.io/fav_band/
 The application show more about my favourite band, H_ART THE BAND. Describes their names and how they are and how they began. 
 It also shows links to my favorite songs from the band. 
 
@@ -14,7 +14,7 @@ It also shows links to my favorite songs from the band.
 ## Known Bugs
 Everything is working well
 ## Technologies Used
-Pure HTML and CSS
+HTML and CSS
 ## Support and contact details
 WhatsApp - +254725801772
 GitHub - https://github.com/k-koech
