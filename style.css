@@ -171,6 +171,7 @@ header .header-title p
 .videos a:hover
 {
     cursor: pointer;
+    color: red;
 }
 
 .videos .col img
