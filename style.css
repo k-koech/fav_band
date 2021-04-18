@@ -167,11 +167,12 @@ header .header-title p
 .videos a
 {
   color: #f24a0c;
+  text-decoration: none;
 }
 .videos a:hover
 {
     cursor: pointer;
-    color: red;
+    color: rgb(165, 1, 1);
 }
 
 .videos .col img
