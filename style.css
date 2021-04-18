@@ -1,19 +1,17 @@
-*
+body
 {
-margin:;
+margin-top:0px;
+margin-bottom: 0px;
 }
 
 header
 {
-    background-image: url('images/h-art-the-band.jpg'); 
+    background-image: url('b-images/h_art1.jpg'); 
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
-    /* image-rendering: -webkit-optimize-contrast; */
-    /* image-rendering: pixelated; */
-    background-position:50% 50%;
-    width: 100%;
+    image-rendering: optimizeQuality;
     background-size:cover;
     position: relative;
     color: white;
@@ -54,9 +52,7 @@ header .header-title h2
     font-family: Tangerine;
     color: rgb(255, 0, 0);
     display: block;
-    /* background-color: rgba(255,255,255,0.5); */
     padding: 10px;
-    /* border-radius: 12px; */
     width: 40%;
     margin: auto;
 }
@@ -82,6 +78,7 @@ header .header-title p
 }
 .about-band h1
 {
+    margin-top: 10px;
    text-align: center;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color: #f24a0c;
@@ -92,6 +89,7 @@ header .header-title p
   height: 5px;
   background-color: #f24a0c;
   border: none;
+  margin-bottom: 30px;
 }
 .about-band .row
 { 
@@ -106,6 +104,7 @@ header .header-title p
     width: 70%;
     margin: auto;
 }
+
 .about-band .desc
 { 
     line-height: 1.5;
@@ -149,7 +148,7 @@ header .header-title p
     font-weight: 300px;
 }
 
-/* *******About Band****** */
+/* *******Videos****** */
 .videos
 {
  margin-top: 5%;
