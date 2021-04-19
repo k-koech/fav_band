@@ -19,6 +19,7 @@ HTML and CSS
 WhatsApp - +254725801772
 GitHub - https://github.com/k-koech
 ### License
+licence file - LICENSE.md
 Copyright (c) 2021 **Kelvin Kipchumba Koech**
 
 
