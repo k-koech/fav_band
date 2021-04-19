@@ -6,13 +6,12 @@ margin-bottom: 0px;
 
 header
 {
-    background-image: url('b-images/h_art1.jpg'); 
+    background-image: url('b-images/h_art6.jpg'); 
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
-    image-rendering: optimizeQuality;
-    background-size:cover;
+    background-size:cover; 
     position: relative;
     color: white;
 }
